@@ -2,7 +2,7 @@
 - 👀 I’m interested in Specialising in Machine Learning
 - 🌱 I’m currently learning Fundamentals of ML
 - 💞️ I’m looking to collaborate on Ml projects
-- 📫 How to reach me https://www.linkedin.com/in/aakarsh-bahukhandi-b78a35322/
+- 📫 How to reach me https://www.linkedin.com/in/aakarshbahukhandi/
 - ⚡ Fun fact:Obsessed with POKEMON 
 <!---
 AakarshBahukhandi/AakarshBahukhandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
